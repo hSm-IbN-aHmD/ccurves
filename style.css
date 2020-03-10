@@ -1492,8 +1492,8 @@ a:focus,
 }
 
 .mu-footer-logo {
-	margin-bottom: 25px;
-	border-radius: 75%;
+	margin-bottom: 1.5625em;
+	border-radius: 100%;
 }
 
 .mu-single-footer h3 {
